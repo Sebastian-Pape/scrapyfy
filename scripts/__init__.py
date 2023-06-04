@@ -3,3 +3,4 @@ import classifier
 import data_plotting
 import data_preprocessing
 import meta_data_extraction
+import lyrics_tools
